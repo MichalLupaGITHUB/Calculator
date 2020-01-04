@@ -1,0 +1,7 @@
+﻿  Plansza.cpp
+d:\prywatne\github\calculator\kalkulator\plansza.h(1011): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Pomoc.cpp
+  Generating Code...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Plansza.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Kalkulator.vcxproj -> D:\Prywatne\GITHUB\Calculator\Debug\Kalkulator.exe
